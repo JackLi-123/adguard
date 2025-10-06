@@ -1,0 +1,26 @@
+!
+! Title: AdGuard DNS filter
+!
+
+! --------Start TikTok -------------
+||tiktok.com^
+||tiktokv.us
+||tiktokcdn-us.com
+||tiktok.com^
+||byteoversea.com^
+||musical.ly^
+||muscdn.com^
+||ibytedtos.com^
+||snssdk.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tiktokglobalcdn.com^
+||tiktokapi.com^
+||tiktokvlog.com^
+||tiktokstatic.com^
+||bytedance.net^
+||bytedance.com^
+||amemv.com^
+||douyin.com^
+||douyinstatic.com^
+! --------End TikTok -------------
