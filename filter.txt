@@ -24,3 +24,18 @@
 ||douyin.com^
 ||douyinstatic.com^
 ! --------End TikTok -------------
+
+! --------Start VPN -------------
+||nordvpn.com^
+||expressvpn.com^
+||surfshark.com^
+||protonvpn.com^
+||privateinternetaccess.com^
+||vpnbook.com^
+||hidemyass.com^
+||tunnelbear.com^
+||windscribe.com^
+||cyberghostvpn.com^
+||ipvanish.com^
+||fastestvpn.com^
+! --------End VPN -------------
