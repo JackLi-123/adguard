@@ -38,4 +38,12 @@
 ||cyberghostvpn.com^
 ||ipvanish.com^
 ||fastestvpn.com^
+||openvpn.net^
+||strongvpn.com^
+||securevpn.com^
+||ssrcloud.org^
+||v2rayssr.com^
+||shadowsocks.org^
+||wireguard.com^
+
 ! --------End VPN -------------
